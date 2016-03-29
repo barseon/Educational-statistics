@@ -1,4 +1,4 @@
-Educational statistics
+Educational statistic
 ----------------------
 
 Test task work for Maksim M. 

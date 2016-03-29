@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="/views/favicon.ico">
-    <title>Educational statistics</title>
+    <title>Educational statistic</title>
     <!-- Bootstrap core CSS -->
     <link href="/views/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
@@ -30,7 +30,7 @@
 <!-- Begin page content -->
 <div class="container">
     <div class="page-header">
-        <h1>Educational statistics</h1>
+        <h1>Educational statistic</h1>
     </div>
     <p class="lead">
     <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
