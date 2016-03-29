@@ -9,5 +9,5 @@ Live demo ([#](http://blackbirdweb.ru/))
 Front-end
 
  - Bootstrap 3 framework - for layout ([#](http://getbootstrap.com/))
- - Datatables lib - for table ([#](http://www.datatables.net/))
+ - Datatables plug-in - for table ([#](http://www.datatables.net/))
  - Highcharts lib - for charts ([#](http://www.highcharts.com/))
