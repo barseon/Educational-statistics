@@ -8,6 +8,6 @@ Live demo ([#](http://blackbirdweb.ru/))
 
 Front-end
 
- - Botstrap 3 framework - for layout ([#](http://getbootstrap.com/))
+ - Bootstrap 3 framework - for layout ([#](http://getbootstrap.com/))
  - Datatables lib - for table ([#](http://www.datatables.net/))
  - Highcharts lib - for charts ([#](http://www.highcharts.com/))
